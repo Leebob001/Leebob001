@@ -1,4 +1,4 @@
-![Preview](https://preview.redd.it/7byo29nscbba1.png?width=1280&format=png&auto=webp&v=enabled&s=ed089c58133324f2559dde43732b300e79da3e6c)
+![Preview](https://media.tenor.com/1Z4DJtYZeBwAAAAi/tamado.gif)
 
 <h2 align="center">✌️ W E L C O M E ➖ T O ➖ M Y ➖ P R O F I L E ✌️</h2>
 
