@@ -23,7 +23,7 @@
 
 <img align="right" height="220" src="./assets/type-computer-squid-girl-ezgif.com-crop.gif"  />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
