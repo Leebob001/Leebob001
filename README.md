@@ -1,8 +1,8 @@
-<h2 align="center"> W E L C O M E ➖ T O ➖ M Y ➖ P R O F I L E </h2>
+<h2 align="center">✌️ W E L C O M E ➖ T O ➖ M Y ➖ P R O F I L E ✌️</h2>
 
 ###
 
-<p align="center">สวัสดีครับ👋<br>
+<p align="center">Hi👋<br>
 
 ###
 
@@ -13,13 +13,13 @@
 
 <img align="right" height="200" src="./assets//csharp-cat-programmer.gif"  />
 
-<p align="left">ชื่อ : <br><br>💻 ภาควิชา : Copy and Paste Engineering(CPE)<br><br>🎮 งานอดิเรก : เล่นเกม, ฟังเพลง, เล่นบาส, ดูอนิเมะ, โค้ด</p>
+<p align="left">Name : Som <br><br>🎮 Hobbies : Playing Games, Listen to Music, Playing Basketball</p>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Languages</h4>
+<h2 align="left">Languages</h2>
 
 <img align="right" height="220" src="./assets/type-computer-squid-girl-ezgif.com-crop.gif"  />
 <div align="left">
