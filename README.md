@@ -12,7 +12,6 @@
 - Name: **Leebob** 
 - Residing in: **Thailand**
 - Hobbies: **Playing Games / Basketball**
-- Work: **-**
 <br><br>
 
 ## **💻 Experience**
