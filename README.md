@@ -9,7 +9,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **** 
+- Name: **Leebob** 
 - Residing in: **Thailand**
 - Hobbies: **Playing Games / Basketball**
 - Work: **UNEMPLOYED**
