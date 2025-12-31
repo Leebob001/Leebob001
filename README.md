@@ -12,8 +12,7 @@
 - Name: **Leebob** 
 - Residing in: **Thailand**
 - Hobbies: **Playing Games / Basketball**
-- Work: **UNEMPLOYED**
-- Language: **Vietnamese, English**
+- Work: **Study**
 <br><br>
 
 ## **💻 Experience**
