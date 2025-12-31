@@ -13,7 +13,7 @@
 
 <img align="right" height="200" src="./assets//csharp-cat-programmer.gif"  />
 
-<p align="left">🤙 Name : Leebob <br><br>🎮 Hobbies : Playing Games, Listen to Music, Playing Basketball</p>
+<p align="left">🤙 Name : Leebob<br><br>🎮 Hobbies : Playing Games, Listen to Music, Playing Basketball</p>
 
 ###
 
