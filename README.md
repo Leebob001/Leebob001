@@ -13,7 +13,7 @@
 <h3 align="left">About Me</h3>
 
 
-<img align="right" height="200" src="hi.gif"  />
+<img align="right" height="200" src="hi.gif"/>
 
 <p align="left">🤙 Name : Leebob <br><br>🎮 Hobbies : Playing Games, Listen to Music, Playing Basketball</p>
 
