@@ -1,11 +1,7 @@
   <h1 align="center">Hello there!</h1>
 <div align="center">
   <img src=".github/images/ElysiaBackground(2).png" width="100%" alt="Profile Banner"/>
-
-  <p align="center">
-    <i>"Did you want to see me? Your Elysia will always meet your expectations. ♪"</i>  
-  </p>
-
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F713B9&vCenter=true&random=true&width=800&lines=~+Nino;%22Everything+loses+to+Elysia!%22+%E2%99%A5%EF%B8%8F;%F0%9F%AA%B6+Dev+-+Anime+-+Music+-+Game)](https://git.io/typing-svg)
 </div>
 
