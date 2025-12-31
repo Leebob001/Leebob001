@@ -1,4 +1,4 @@
-![Preview](.images.jfif)
+![Preview](images.jfif)
 
 ### Hi!👋
 
