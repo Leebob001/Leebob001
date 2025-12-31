@@ -1,4 +1,4 @@
-![Preview](https://media.tenor.com/1Z4DJtYZeBwAAAAi/tamado.gif)
+![Preview](ryo.gif)
 
 <h2 align="center">✌️ W E L C O M E ➖ T O ➖ M Y ➖ P R O F I L E ✌️</h2>
 
@@ -13,7 +13,7 @@
 <h3 align="left">About Me</h3>
 
 
-<img align="right" height="200" src="https://media1.tenor.com/m/2wPCzBrKJP8AAAAC/hyper-anime.gif"  />
+<img align="right" height="200" src="hi.gif"  />
 
 <p align="left">🤙 Name : Leebob <br><br>🎮 Hobbies : Playing Games, Listen to Music, Playing Basketball</p>
 
