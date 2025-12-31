@@ -5,13 +5,13 @@
 
 ### Hi!👋
 
-*SUPER UNEMPLOYED OHIO FINAL BOSS*
+**
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Mizu** 
-- Residing in: **Vietnam**
-- Hobbies: **Cosplay, Playing Games, Driving with Sportbike**
+- Name: **** 
+- Residing in: **Thailand**
+- Hobbies: **Playing Games / Basketball**
 - Work: **UNEMPLOYED**
 - Language: **Vietnamese, English**
 <br><br>
