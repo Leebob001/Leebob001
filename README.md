@@ -1,4 +1,4 @@
-![Preview](./images/bg.webp)
+![Preview](.images.jfif)
 
 ### Hi!👋
 
