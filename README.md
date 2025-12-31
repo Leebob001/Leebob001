@@ -4,28 +4,17 @@
 
 **
 
-## **☕ About me**
+## **About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
 - Name: **Leebob** 
 - Residing in: **Thailand**
 - Hobbies: **Playing Games / Basketball**
 <br><br>
 
-## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_sad.webp"></a>
-- Useless, lazy, unmotivated, and literally no survival skills in this society.
-- As a Hikikomori and NEET, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
-- I have a passion for anime, and I love to cosplay as my favorite characters.
-
-## **📊 Github Stats**
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
-<!-- ## **🎧 Music**
+## **🎧 Music**
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="35%"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
+</p>
 
 <!-- ## **🧋Cutie Counter** -->
 <!-- <p align="center">
