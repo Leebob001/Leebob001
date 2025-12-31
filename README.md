@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h3 align="left">Languages</h3>
+<h4 align="left">Languages</h4>
 
 <img align="right" height="220" src="./assets/type-computer-squid-girl-ezgif.com-crop.gif"  />
 <div align="left">
